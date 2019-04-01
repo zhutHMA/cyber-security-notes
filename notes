@@ -1,0 +1,6 @@
+'''pwd'''
+(print working directory): Outputs the directory that the terminal is currently in.
+'''ls'''
+output. “ls” is short for “list;” this command will list all the
+content of the current working directory.
+'''ls -a'''
