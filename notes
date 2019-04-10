@@ -4,3 +4,12 @@
 output. “ls” is short for “list;” this command will list all the
 content of the current working directory.
 '''ls -a'''
+list out all files that's hidden
+'''ls -l'''
+list informations about the owner and permissions of the content
+'''cd'''
+change directory, change the current working directory to a specified directory
+'''mkdir'''
+make directory, create a directory, using either the relative or absolute path
+'''rmdir'''
+Remove directory, delete a specified directory given ther elative or absolute path
