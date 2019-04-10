@@ -1,29 +1,29 @@
-'''pwd'''
+```pwd```
 (print working directory): Outputs the directory that the terminal is currently in.
-'''ls'''
+```ls```
 output. “ls” is short for “list;” this command will list all the
 content of the current working directory.
-'''ls -a'''
+```ls -a```
 list out all files that's hidden
-'''ls -l'''
+```ls -l```
 list informations about the owner and permissions of the content
-'''cd'''
+```cd```
 change directory, change the current working directory to a specified directory
-'''mkdir'''
+```mkdir```
 make directory, create a directory, using either the relative or absolute path
-'''rmdir'''
+```rmdir```
 Remove directory, delete a specified directory given ther elative or absolute path
 
 
-'''firefox'''
+```firefox```
 start the firefox web brower application
-'''touch'''
+```touch```
 allows you to update the time stamp of a file or create a new file, if a file with the name provided does not exist
-'''leafpad'''
+```leafpad```
 opens the leafpad application for text editing
-'''cat'''
+```cat```
 prints the content of a file to the terminal output
-'''wget''' 
+```wget``` 
 allows you to download files from the internet given a URL
-'''rm'''
+```rm```
 allows you to delete a file, this commend is differetn from the rmdir command we learned earlier
