@@ -1,1 +1,22 @@
 # cyber-security-notes-CTF2-DerpNStink
+Derp stink
+4
+ubuntu linux
+nmap-ss
+stp ssh http
+first flag source code of home page of website
+home page is not a wordpress
+no useful info in robot.txt page
+dirtbuster to scan sight
+use admin to enter wordpress
+scan the sight using wpscan
+the slideshow has vulnerability CVE-20145460
+exploit data base (website name)
+exploite is written in python
+tool used to reverse shell payload: metaspolit
+exploit is problem in sight code
+he finds the login information for the sql database
+use sql database to get in
+use hashcat to decypher the passcode
+second flag is located at dashboard of wordpress
+he used netcat to create a file server to transfer data across
